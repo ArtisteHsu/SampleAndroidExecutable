@@ -6,3 +6,4 @@ environment setup and build.
 
 Download AOSP and clone this sample in external folder and build.
 ~/AOSP/external/SampleAndroidExecutable$ mm
+
